@@ -1,0 +1,1 @@
+# vectorized_sma_strat
